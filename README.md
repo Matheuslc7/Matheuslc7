@@ -1,4 +1,4 @@
-### Olá ! Sou Matheus Cândido, desenvolvedor front-end, estuddante de engenharia da computação.
+### Olá ! Sou Matheus Cândido, desenvolvedor front-end, estudante de engenharia da computação.
 ### ¡Hola! Soy Matheus Cândido, desarrollador front-end, estudiante de ingeniería informática.
 ### Hello ! I'm Matheus Cândido, front-end developer, computer engineering student.
 
