@@ -1,12 +1,12 @@
-### Olá ! Sou Matheus Cândido, desenvolvedor front-end, estudante de engenharia da computação.
-### ¡Hola! Soy Matheus Cândido, desarrollador front-end, estudiante de ingeniería informática.
-### Hello ! I'm Matheus Cândido, front-end developer, computer engineering student.
+### Olá ! Sou Matheus Cândido, desenvolvedor full stack, estudante de engenharia da computação.
+### ¡Hola! Soy Matheus Cândido, desarrollador full stack, estudiante de ingeniería informática.
+### Hello ! I'm Matheus Cândido, full stack developer, computer engineering student.
 
 - 💻 Estou em busca de uma oportunidade. | estoy buscando una oportunidad. | I'm looking for an opportunity.
 - 📚 Atualmente estou aprendendo desenvolvimento mobile. | Actualmente estoy aprendiendo desarrollo móvil. | I'm currently learning mobile development.
 - 🧠 Linguas | Lenguas | Languages : Português - Nativo | Español - Básico | English - Basic
 - 📌 Curiosidade | Curiosidad | Curiosity : Sou estudante de Lingua Espanhola. | Soy estudiante de la lengua Española. | I'm a Spanish language student.
-- ⭐ HTML ✔ | CSS ✔ | JavaScript ✔ | Vue ⏳📚 | React.js ⏳📚
+- ⭐ HTML ✔ | CSS ✔ | JavaScript ✔ | Java ⏳📚
   
   ##
   
