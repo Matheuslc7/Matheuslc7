@@ -6,7 +6,7 @@
 - 📚 Atualmente estou aprendendo desenvolvimento mobile. | Actualmente estoy aprendiendo desarrollo móvil. | I'm currently learning mobile development.
 - 🧠 Linguas | Lenguas | Languages : Português - Nativo | Español - Básico | English - Basic
 - 📌 Curiosidade | Curiosidad | Curiosity : Sou estudante de Lingua Espanhola. | Soy estudiante de la lengua Española. | I'm a Spanish language student.
-- ⭐ HTML ✔ | CSS ✔ | JavaScript ✔ | Java ⏳📚
+- ⭐ HTML | CSS | JavaScript | PHP
   
   ##
   
@@ -20,8 +20,6 @@
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Matheus-vue" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.svg">
-  <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div>
   
   ##
